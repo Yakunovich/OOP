@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\obj\Debug\Lab 3 Abit.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\obj\Debug\Lab 3 Abit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\bin\Debug\Lab 3 Abit.exe.config
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\bin\Debug\Lab 3 Abit.exe
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\bin\Debug\Lab 3 Abit.pdb
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\obj\Debug\Lab 3 Abit.exe
+C:\Users\user\source\repos\Lab 3 Abit\Lab 3 Abit\obj\Debug\Lab 3 Abit.pdb
