@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\bin\Debug\Delegates Q1.exe.config
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\bin\Debug\Delegates Q1.exe
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\bin\Debug\Delegates Q1.pdb
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\obj\Debug\Delegates Q1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\obj\Debug\Delegates Q1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\obj\Debug\Delegates Q1.exe
+C:\Users\user\source\repos\Delegates Q1\Delegates Q1\obj\Debug\Delegates Q1.pdb

@@ -1,0 +1,21 @@
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\bin\Debug\Laba16.exe.config
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\bin\Debug\Laba16.exe
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\bin\Debug\Laba16.pdb
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\obj\Debug\Laba16.csprojAssemblyReference.cache
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\obj\Debug\Laba16.csproj.CoreCompileInputs.cache
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\obj\Debug\Laba16.exe
+E:\Универ\3\ООП\Лабы\Laba16\Laba16\obj\Debug\Laba16.pdb
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\bin\Debug\Laba16.exe.config
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\bin\Debug\Laba16.exe
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\bin\Debug\Laba16.pdb
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\obj\Debug\Laba16.csprojAssemblyReference.cache
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\obj\Debug\Laba16.csproj.CoreCompileInputs.cache
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\obj\Debug\Laba16.exe
+C:\Users\hasler\Desktop\Лабы ООП\Laba16\Laba16\obj\Debug\Laba16.pdb
+D:\Laba16\Laba16\bin\Debug\Laba16.exe.config
+D:\Laba16\Laba16\bin\Debug\Laba16.exe
+D:\Laba16\Laba16\bin\Debug\Laba16.pdb
+D:\Laba16\Laba16\obj\Debug\Laba16.csprojAssemblyReference.cache
+D:\Laba16\Laba16\obj\Debug\Laba16.csproj.CoreCompileInputs.cache
+D:\Laba16\Laba16\obj\Debug\Laba16.exe
+D:\Laba16\Laba16\obj\Debug\Laba16.pdb
